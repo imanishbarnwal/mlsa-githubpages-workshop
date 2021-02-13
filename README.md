@@ -4,7 +4,7 @@
 
 As a little token of my appreciation, I want to give every participant who joined a little shoutout.
 
-For this part of the activity, please visit the **[_includes]** folder in the repository and find the **template** given there. Make sure to create a copy the file, rename it in the format *Your_GitHub_ID.md*, and fill in the details as per your wish.
+For this part of the activity, please visit the **[_includes](https://github.com/imanishbarnwal/mlsa-githubpages-workshop/tree/master/_includes)** folder in the repository and find the **template** given there. Make sure to create a copy the file, rename it in the format *Your_GitHub_ID.md*, and fill in the details as per your wish.
 
 ---
 
