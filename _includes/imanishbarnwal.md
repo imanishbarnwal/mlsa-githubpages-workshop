@@ -1,1 +1,1 @@
-| Manish Kumar Barnwal | [imanishbarnwal](https://github.com/imanishbarnwal) | I am glad to be interact with you guys |
+| Manish Kumar Barnwal | [imanishbarnwal](https://github.com/imanishbarnwal) | I am glad to be here and able to interact with you guys |
