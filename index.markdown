@@ -8,4 +8,4 @@
 {% include Nayan-Sinha.md %}
 {% include sayantan2411.md %}
 {% include GurupadaGhosh.md %}
-{% include PratikChakraborty10.md %}
+{% include pratik.md %}
