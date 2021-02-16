@@ -7,3 +7,4 @@
 {% include prachi1710.md %}
 {% include Nayan-Sinha.md %}
 {% include sayantan2411.md %}
+{% include GurupadaGhosh.md %}
