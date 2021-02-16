@@ -1,0 +1,1 @@
+| Sayantan De | [sayantan2411](https://github.com/sayantan2411) | I am looking forward for for such sessions and it was really informative.Thank You all the panelists for creating such a knowledge gaining session for us.
