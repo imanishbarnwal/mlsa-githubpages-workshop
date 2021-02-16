@@ -3,4 +3,9 @@
 | Name Of Contributor | GitHub Profile | Your Feedback |
 | - | - | - |
 {% include imanishbarnwal.md %}
+{% include sagnikmitra.md %}
+{% include prachi1710.md %}
+{% include Nayan-Sinha.md %}
+{% include sayantan2411.md %}
+{% include GurupadaGhosh.md %}
 {% include PratikChakraborty10.md %}
